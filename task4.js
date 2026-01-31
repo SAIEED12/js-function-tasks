@@ -13,6 +13,6 @@ function count_zero(str){
 }
 
 const str = "10010001011";
-const str1 = '000'; 
+// const str1 = '000'; 
 console.log(count_zero(str));
-console.log(count_zero(str1));
+console.log(count_zero('0000'));
